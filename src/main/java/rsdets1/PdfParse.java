@@ -70,7 +70,7 @@ public class PdfParse {
             int count = 0;
             for (String senctence: sentences) {
                 senctence = senctence.replace("\n", "").replace("\r", "").replaceAll("[^\\x00-\\x7F]", "");
-                System.out.println("Sentence " + ++count + " is: " + senctence);
+                //System.out.println("Sentence " + ++count + " is: " + senctence);
                 bw.write(senctence);
                 bw.newLine();
             }
