@@ -31,6 +31,11 @@ task fatJar(type: Jar) {
     with jar
 }
 
+task runPyNlp(type:Exec) {
+   workingDir './scripts'
+
+   commandLine 'python', 'processFile.py'
+} 
 
 task wrapper(type: Wrapper) {
     gradleVersion = '2.9'

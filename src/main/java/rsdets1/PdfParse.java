@@ -5,14 +5,8 @@ package rsdets1;
  */
 
 
-import java.io.InputStream;
+import java.io.*;
 import java.net.URL;
-
-import opennlp.tools.cmdline.parser.ParserTool;
-import opennlp.tools.parser.Parse;
-import opennlp.tools.parser.ParserFactory;
-import opennlp.tools.parser.ParserModel;
-import opennlp.tools.parser.Parser;
 import opennlp.tools.sentdetect.SentenceDetectorME;
 import opennlp.tools.sentdetect.SentenceModel;
 import org.apache.tika.metadata.Metadata;
@@ -34,17 +28,17 @@ public class PdfParse {
             texturl = new URL("http://www.diabeteswellness.net/sites/default/files/What%20is%20Diabetes.pdf");
         }
 
-        URL cunkurl = new URL("http://maven.tamingtext.com/opennlp-models/models-1.5/en-parser-chunking.bin");
-        InputStream chunkin = cunkurl.openStream();
-        ParserModel pmodel = new ParserModel(chunkin);
-        Parser parser = ParserFactory.create(pmodel);
-
-
         BodyContentHandler handler = new BodyContentHandler();
         Metadata metadata = new Metadata();
 
         System.out.println("opening connection");
         InputStream textin = null;
+
+        File fout = new File("scripts/processFile.txt");
+        FileOutputStream fos = new FileOutputStream(fout);
+
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
+
 
         try {
             textin = texturl.openStream();
@@ -72,23 +66,13 @@ public class PdfParse {
             sin = sentUrl.openStream();
             SentenceModel model = new SentenceModel(sin);
             SentenceDetectorME sdetector = new SentenceDetectorME(model);
-
             String sentences[] = sdetector.sentDetect(handler.toString());
             int count = 0;
-            for(String sent: sentences) {
-                System.out.println("******* SENCENCE: " + ++count + " ********");
-                System.out.println(sent);
-
-                try {
-                    Parse topParses[] = ParserTool.parseLine(sent, parser, 1);
-                    System.out.println("Associated NL Graph");
-                    for (Parse p : topParses)
-                        p.show();
-                } catch (Exception e) {
-                    // Do nothing
-                }
-
-                System.out.println("********");
+            for (String senctence: sentences) {
+                senctence = senctence.replace("\n", "").replace("\r", "").replaceAll("[^\\x00-\\x7F]", "");
+                System.out.println("Sentence " + ++count + " is: " + senctence);
+                bw.write(senctence);
+                bw.newLine();
             }
 
         } catch (Exception e) {
@@ -97,8 +81,8 @@ public class PdfParse {
             if(null != sin) {
                 sin.close();
             }
-            if(null != chunkin) {
-                chunkin.close();
+            if(null != bw) {
+                bw.close();
             }
         }
 

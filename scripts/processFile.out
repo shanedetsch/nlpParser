@@ -1,0 +1,2663 @@
+:runPyNlp
+
+Processing sentence 1: 
+    Heart Disease and Stroke Statistics – At-a-Glance  
+
+and, CC
+Disease, NNP
+At-a-Glance, NNP
+Stroke, NNP
+Heart, NNP
+Statistics, NNPS
+–, VBD
+
+Processing sentence 2: 
+    
+
+
+Processing sentence 3: 
+    Here are a few key statistics about heart disease, stroke, other cardiovascular diseases 
+
+,, ,
+a, DT
+about, IN
+key, JJ
+cardiovascular, JJ
+other, JJ
+few, JJ
+disease, NN
+stroke, NN
+heart, NN
+statistics, NNS
+diseases, NNS
+Here, RB
+are, VBP
+
+Processing sentence 4: 
+    and their risk factors.
+
+., .
+and, CC
+risk, NN
+factors, NNS
+their, PRP$
+
+Processing sentence 5: 
+    The source for the health statistics is the association’s 2015 Heart Disease and Stroke 
+
+and, CC
+2015, CD
+the, DT
+The, DT
+for, IN
+association’s, JJ
+source, NN
+health, NN
+Stroke, NNP
+Disease, NNP
+Heart, NNP
+statistics, NNS
+is, VBZ
+
+Processing sentence 6: 
+    Statistics Update, which is compiled annually by the American Heart Association, the 
+
+,, ,
+the, DT
+by, IN
+American, NNP
+Association, NNP
+Update, NNP
+Heart, NNP
+Statistics, NNS
+annually, RB
+compiled, VBN
+is, VBZ
+which, WDT
+
+Processing sentence 7: 
+    Centers for Disease Control and Prevention, the National Institutes of Health and other 
+
+,, ,
+and, CC
+the, DT
+of, IN
+for, IN
+other, JJ
+National, NNP
+Disease, NNP
+Health, NNP
+Prevention, NNP
+Control, NNP
+Institutes, NNPS
+Centers, NNS
+
+Processing sentence 8: 
+    government sources.
+
+., .
+government, NN
+sources, NNS
+
+Processing sentence 9: 
+    Heart Disease, Stroke and other Cardiovascular Diseases  
+
+,, ,
+and, CC
+Cardiovascular, JJ
+other, JJ
+Stroke, NNP
+Disease, NNP
+Heart, NNP
+Diseases, NNS
+
+Processing sentence 10: 
+    • Cardiovascular disease is the leading global cause of death, accounting for 17.3 
+
+,, ,
+17.3, CD
+the, DT
+for, IN
+of, IN
+•, JJ
+global, JJ
+death, NN
+cause, NN
+disease, NN
+Cardiovascular, NNP
+accounting, VBG
+leading, VBG
+is, VBZ
+
+Processing sentence 11: 
+    
+
+
+Processing sentence 12: 
+    million deaths per year, a number that is expected to grow to more than 23.6 
+
+,, ,
+million, CD
+23.6, CD
+a, DT
+than, IN
+per, IN
+more, JJR
+number, NN
+year, NN
+deaths, NNS
+to, TO
+grow, VB
+expected, VBN
+is, VBZ
+that, WDT
+
+Processing sentence 13: 
+    million by 2030.
+
+., .
+million, CD
+2030, CD
+by, IN
+
+Processing sentence 14: 
+    • In 2008, cardiovascular deaths represented 30 percent of all global deaths, with 
+
+,, ,
+2008, CD
+30, CD
+all, DT
+with, IN
+In, IN
+of, IN
+global, JJ
+cardiovascular, JJ
+•, NN
+percent, NN
+deaths, NNS
+represented, VBD
+
+Processing sentence 15: 
+    80 percent of those deaths taking place in low- and middle-income countries.
+
+., .
+and, CC
+80, CD
+those, DT
+of, IN
+in, IN
+middle-income, JJ
+low-, JJ
+percent, NN
+place, NN
+countries, NNS
+deaths, NNS
+taking, VBG
+
+Processing sentence 16: 
+    • Nearly 787,000 people in the U.S. died from heart disease, stroke and other 
+
+,, ,
+and, CC
+787,000, CD
+the, DT
+in, IN
+from, IN
+other, JJ
+disease, NN
+stroke, NN
+heart, NN
+U.S., NNP
+people, NNS
+Nearly, RB
+•, RB
+died, VBD
+
+Processing sentence 17: 
+    cardiovascular diseases in 2011.
+
+., .
+2011, CD
+in, IN
+cardiovascular, JJ
+diseases, NNS
+
+Processing sentence 18: 
+    That’s about one of every three deaths in 
+
+three, CD
+one, CD
+every, DT
+in, IN
+of, IN
+about, IN
+That’s, NN
+deaths, NNS
+
+Processing sentence 19: 
+    America.
+
+., .
+America, NNP
+
+Processing sentence 20: 
+    • About 2,150 Americans die each day from these diseases, one every 40 
+
+,, ,
+2,150, CD
+one, CD
+40, CD
+every, DT
+each, DT
+these, DT
+About, IN
+from, IN
+die, JJ
+day, NN
+•, NN
+Americans, NNPS
+diseases, NNS
+
+Processing sentence 21: 
+    seconds.
+
+., .
+seconds, NNS
+
+Processing sentence 22: 
+    • Cardiovascular diseases claim more lives than all forms of cancer combined.
+
+., .
+all, DT
+than, IN
+of, IN
+•, JJ
+cancer, NN
+claim, NN
+Cardiovascular, NNP
+forms, NNS
+lives, NNS
+more, RBR
+combined, VBN
+diseases, VBZ
+
+Processing sentence 23: 
+    • About 85.6 million Americans are living with some form of cardiovascular disease 
+
+85.6, CD
+million, CD
+some, DT
+with, IN
+of, IN
+About, IN
+cardiovascular, JJ
+disease, NN
+•, NN
+form, NN
+Americans, NNPS
+living, VBG
+are, VBP
+
+Processing sentence 24: 
+    
+
+
+Processing sentence 25: 
+    or the after-effects of stroke.
+
+., .
+or, CC
+the, DT
+of, IN
+stroke, NN
+after-effects, NNS
+
+Processing sentence 26: 
+    • Direct and indirect costs of cardiovascular diseases and stroke total more than 
+
+and, CC
+than, IN
+of, IN
+indirect, JJ
+cardiovascular, JJ
+•, NN
+total, NN
+Direct, NNP
+costs, NNS
+diseases, NNS
+more, RBR
+stroke, VBD
+
+Processing sentence 27: 
+    
+
+
+Processing sentence 28: 
+    $320.1 billion.
+
+$, $
+., .
+320.1, CD
+billion, CD
+
+Processing sentence 29: 
+    That includes health expenditures and lost productivity.
+
+., .
+and, CC
+That, DT
+health, NN
+productivity, NN
+expenditures, NNS
+lost, VBN
+includes, VBZ
+
+Processing sentence 30: 
+    • Nearly half of all African-American adults have some form of cardiovascular 
+
+some, DT
+all, DT
+of, IN
+African-American, JJ
+cardiovascular, NN
+form, NN
+half, NN
+adults, NNS
+Nearly, RB
+•, RB
+have, VBP
+
+Processing sentence 31: 
+    
+
+
+Processing sentence 32: 
+    disease, 48 percent of women and 46 percent of men.
+
+,, ,
+., .
+and, CC
+48, CD
+46, CD
+of, IN
+percent, NN
+disease, NN
+women, NNS
+men, NNS
+
+Processing sentence 33: 
+    • Heart disease is the No. 1 cause of death in the world and the leading cause of 
+
+., .
+and, CC
+1, CD
+the, DT
+in, IN
+of, IN
+•, JJ
+world, NN
+death, NN
+cause, NN
+disease, NN
+No, NNP
+Heart, NNP
+leading, VBG
+is, VBZ
+
+Processing sentence 34: 
+    
+
+
+Processing sentence 35: 
+    death in the United States, killing over 375,000 Americans a year.
+
+,, ,
+., .
+375,000, CD
+the, DT
+a, DT
+over, IN
+in, IN
+death, NN
+year, NN
+United, NNP
+States, NNPS
+Americans, NNS
+killing, VBG
+
+Processing sentence 36: 
+    • Heart disease accounts for 1 in 7 deaths in the U.S.   
+
+., .
+7, CD
+1, CD
+the, DT
+in, IN
+for, IN
+•, JJ
+disease, NN
+U.S, NNP
+Heart, NNP
+accounts, NNS
+deaths, NNS
+
+Processing sentence 37: 
+    • Someone in the U.S. dies from heart disease about once every 90 seconds.
+
+., .
+90, CD
+the, DT
+every, DT
+about, IN
+in, IN
+from, IN
+•, NN
+disease, NN
+heart, NN
+Someone, NN
+U.S., NNP
+seconds, NNS
+once, RB
+dies, VBZ
+
+Processing sentence 38: 
+    Heart Disease  
+
+Disease, NNP
+Heart, NNP
+
+Processing sentence 39: 
+    • From 2001 to 2011, the death rate from heart disease has fallen about 39 
+
+,, ,
+2011, CD
+2001, CD
+39, CD
+the, DT
+about, IN
+from, IN
+From, IN
+•, NN
+disease, NN
+rate, NN
+heart, NN
+death, NN
+to, TO
+fallen, VBN
+has, VBZ
+
+Processing sentence 40: 
+    
+
+
+Processing sentence 41: 
+    percent – but the burden and risk factors remain alarmingly high.
+
+., .
+and, CC
+but, CC
+the, DT
+high, JJ
+–, NN
+risk, NN
+percent, NN
+burden, NN
+factors, NNS
+alarmingly, RB
+remain, VBP
+
+Processing sentence 42: 
+    • Heart disease strikes someone in the U.S. about once every 43 seconds.
+
+., .
+43, CD
+the, DT
+every, DT
+about, IN
+in, IN
+•, JJ
+disease, NN
+someone, NN
+U.S., NNP
+Heart, NNP
+seconds, NNS
+once, RB
+strikes, VBZ
+
+Processing sentence 43: 
+    • Heart disease is the No. 1 cause of death in the United States, killing over 
+
+,, ,
+., .
+1, CD
+the, DT
+in, IN
+of, IN
+•, JJ
+death, NN
+cause, NN
+disease, NN
+United, NNP
+No, NNP
+Heart, NNP
+States, NNPS
+over, RP
+killing, VBG
+is, VBZ
+
+Processing sentence 44: 
+    
+
+
+Processing sentence 45: 
+    375,000 people a year.
+
+., .
+375,000, CD
+a, DT
+year, NN
+people, NNS
+
+Processing sentence 46: 
+    • Heart disease is the No. 1 killer of women, taking more lives than all forms of 
+
+,, ,
+., .
+1, CD
+the, DT
+all, DT
+of, IN
+than, IN
+•, JJ
+disease, NN
+killer, NN
+No, NNP
+Heart, NNP
+women, NNS
+forms, NNS
+lives, NNS
+more, RBR
+taking, VBG
+is, VBZ
+
+Processing sentence 47: 
+    
+
+
+Processing sentence 48: 
+    cancer combined.
+
+., .
+cancer, NN
+combined, VBN
+
+Processing sentence 49: 
+    • Over 39,000 African-Americans died from heart disease in 2011.
+
+., .
+39,000, CD
+2011, CD
+in, IN
+from, IN
+Over, IN
+•, NN
+disease, NN
+heart, NN
+African-Americans, NNS
+died, VBD
+
+Processing sentence 50: 
+    • Cardiovascular operations and procedures increased about 28 percent from 2000 
+
+and, CC
+28, CD
+2000, CD
+about, IN
+from, IN
+•, NN
+percent, NN
+Cardiovascular, NNP
+procedures, NNS
+operations, NNS
+increased, VBD
+
+Processing sentence 51: 
+    
+
+
+Processing sentence 52: 
+    to 2010, according to federal data, totaling about 7.6 million in 2010.
+
+,, ,
+., .
+million, CD
+7.6, CD
+2010, CD
+in, IN
+about, IN
+federal, JJ
+data, NNS
+to, TO
+according, VBG
+totaling, VBG
+
+Processing sentence 53: 
+    • About 735,000 people in the U.S. have heart attacks each year.
+
+., .
+735,000, CD
+the, DT
+each, DT
+in, IN
+About, IN
+•, NN
+heart, NN
+year, NN
+U.S., NNP
+attacks, NNS
+people, NNS
+have, VBP
+
+Processing sentence 54: 
+    Of those, about 
+
+,, ,
+those, DT
+Of, IN
+about, RB
+
+Processing sentence 55: 
+    
+
+
+Processing sentence 56: 
+    120,000 die.
+
+., .
+120,000, CD
+die, NN
+
+Processing sentence 57: 
+    • About 635,000 people in the U.S. have a first-time heart attack each year, and 
+
+,, ,
+and, CC
+635,000, CD
+a, DT
+the, DT
+each, DT
+in, IN
+About, IN
+first-time, JJ
+•, NN
+attack, NN
+heart, NN
+year, NN
+U.S., NNP
+people, NNS
+have, VBP
+
+Processing sentence 58: 
+    about 300,000 have recurrent heart attacks.
+
+., .
+300,000, CD
+heart, NN
+attacks, NNS
+about, RB
+recurrent, VBN
+have, VBP
+
+Processing sentence 59: 
+    Stroke  
+
+Stroke, NN
+
+Processing sentence 60: 
+    • In 2010, worldwide prevalence of stroke was 33 million, with 16.9 million people 
+
+,, ,
+16.9, CD
+million, CD
+2010, CD
+33, CD
+In, IN
+of, IN
+with, IN
+worldwide, JJ
+•, NN
+prevalence, NN
+stroke, NN
+people, NNS
+was, VBD
+
+Processing sentence 61: 
+    
+
+
+Processing sentence 62: 
+    having a first stroke.
+
+., .
+a, DT
+first, JJ
+stroke, NN
+having, VBG
+
+Processing sentence 63: 
+    Stroke was the second-leading global cause of death behind 
+
+the, DT
+behind, IN
+of, IN
+global, JJ
+second-leading, JJ
+death, NN
+cause, NN
+Stroke, NNP
+was, VBD
+
+Processing sentence 64: 
+    heart disease, accounting for 11.13% of total deaths worldwide.
+
+,, ,
+., .
+11.13, CD
+of, IN
+for, IN
+total, JJ
+disease, NN
+worldwide, NN
+heart, NN
+%, NN
+deaths, NNS
+accounting, VBG
+
+Processing sentence 65: 
+    • Stroke is the No. 5 cause of death in the United States, killing nearly 129,000 
+
+,, ,
+., .
+129,000, CD
+5, CD
+the, DT
+in, IN
+of, IN
+•, JJ
+death, NN
+cause, NN
+United, NNP
+No, NNP
+Stroke, NNP
+States, NNPS
+nearly, RB
+killing, VBG
+is, VBZ
+
+Processing sentence 66: 
+    people a year.
+
+., .
+a, DT
+year, NN
+people, NNS
+
+Processing sentence 67: 
+    • Stroke kills someone in the U.S. about once every four minutes.
+
+., .
+four, CD
+every, DT
+the, DT
+in, IN
+about, IN
+•, JJ
+someone, NN
+U.S., NNP
+Stroke, NNP
+minutes, NNS
+once, RB
+kills, VBZ
+
+Processing sentence 68: 
+    • African-Americans have nearly twice the risk for a first-ever stroke than white 
+
+a, DT
+the, DT
+than, IN
+for, IN
+first-ever, JJ
+white, JJ
+•, JJ
+risk, NN
+stroke, NN
+African-Americans, NNS
+nearly, RB
+twice, RB
+have, VBP
+
+Processing sentence 69: 
+    
+
+
+Processing sentence 70: 
+    people, and a much higher death rate from stroke.
+
+,, ,
+., .
+and, CC
+a, DT
+from, IN
+higher, JJR
+death, NN
+stroke, NN
+rate, NN
+people, NNS
+much, RB
+
+Processing sentence 71: 
+    • Over the past 10 years, the death rate from stroke has fallen about 35 percent 
+
+,, ,
+10, CD
+35, CD
+the, DT
+about, IN
+from, IN
+Over, IN
+past, JJ
+•, NN
+percent, NN
+rate, NN
+death, NN
+stroke, NN
+years, NNS
+fallen, VBN
+has, VBZ
+
+Processing sentence 72: 
+    
+
+
+Processing sentence 73: 
+    and the number of stroke deaths has dropped about 21 percent.
+
+., .
+and, CC
+21, CD
+the, DT
+about, IN
+of, IN
+stroke, JJ
+percent, NN
+number, NN
+deaths, NNS
+dropped, VBN
+has, VBZ
+
+Processing sentence 74: 
+    • About 795,000 people have a stroke every year.
+
+., .
+795,000, CD
+a, DT
+every, DT
+About, IN
+•, NN
+stroke, NN
+year, NN
+people, NNS
+have, VBP
+
+Processing sentence 75: 
+    • Someone in the U.S. has a stroke about once every 40 seconds.
+
+., .
+40, CD
+every, DT
+a, DT
+the, DT
+in, IN
+about, IN
+•, NN
+stroke, NN
+Someone, NN
+U.S., NNP
+seconds, NNS
+once, RB
+has, VBZ
+
+Processing sentence 76: 
+    • Stroke causes 1 of every 20 deaths in the U.S.   
+
+., .
+20, CD
+1, CD
+every, DT
+the, DT
+in, IN
+of, IN
+•, JJ
+U.S, NNP
+Stroke, NNP
+deaths, NNS
+causes, VBZ
+
+Processing sentence 77: 
+    • Stroke is a leading cause of disability.
+
+., .
+a, DT
+of, IN
+•, JJ
+disability, NN
+cause, NN
+Stroke, NNP
+leading, VBG
+is, VBZ
+
+Processing sentence 78: 
+    • Stroke is the leading preventable cause of disability.
+
+., .
+the, DT
+of, IN
+•, JJ
+preventable, JJ
+disability, NN
+cause, NN
+Stroke, NNP
+leading, VBG
+is, VBZ
+
+Processing sentence 79: 
+    Sudden Cardiac Arrest  
+
+Sudden, JJ
+Cardiac, NNP
+Arrest, NNP
+
+Processing sentence 80: 
+    • In 2011, about 326,200 people experienced out-of-hospital cardiac arrests in the 
+
+,, ,
+326,200, CD
+2011, CD
+the, DT
+In, IN
+in, IN
+out-of-hospital, JJ
+cardiac, JJ
+•, NN
+arrests, NNS
+people, NNS
+about, RB
+experienced, VBD
+
+Processing sentence 81: 
+    
+
+
+Processing sentence 82: 
+    United States.
+
+., .
+United, NNP
+States, NNPS
+
+Processing sentence 83: 
+    Of those treated by emergency medical services, 10.6 percent 
+
+,, ,
+10.6, CD
+those, DT
+Of, IN
+by, IN
+medical, JJ
+emergency, NN
+percent, NN
+services, NNS
+treated, VBN
+
+Processing sentence 84: 
+    survived.
+
+., .
+survived, VBN
+
+Processing sentence 85: 
+    Of the 19,300 bystander-witnessed out-of-hospital cardiac arrests in 
+
+19,300, CD
+the, DT
+in, IN
+Of, IN
+bystander-witnessed, JJ
+out-of-hospital, JJ
+cardiac, JJ
+arrests, NNS
+
+Processing sentence 86: 
+    2011, 31.4 percent survived.
+
+,, ,
+., .
+31.4, CD
+2011, CD
+percent, NN
+survived, VBD
+
+Processing sentence 87: 
+    • Each year, about 209,000 people have a cardiac arrest while in the hospital.
+
+,, ,
+., .
+209,000, CD
+the, DT
+Each, DT
+a, DT
+while, IN
+in, IN
+about, IN
+cardiac, JJ
+arrest, NN
+hospital, NN
+year, NN
+•, NNS
+people, NNS
+have, VBP
+
+Processing sentence 88: 
+    Heart Disease, Stroke and Cardiovascular Disease Risk Factors  
+
+,, ,
+and, CC
+Risk, NNP
+Stroke, NNP
+Disease, NNP
+Cardiovascular, NNP
+Heart, NNP
+Factors, NNS
+
+Processing sentence 89: 
+    The American Heart Association gauges the cardiovascular health of the nation by 
+
+the, DT
+The, DT
+of, IN
+by, IN
+cardiovascular, JJ
+nation, NN
+health, NN
+Association, NNP
+American, NNP
+Heart, NNP
+gauges, VBZ
+
+Processing sentence 90: 
+    tracking seven key health factors and behaviors that increase risks for heart disease 
+
+and, CC
+seven, CD
+for, IN
+that, IN
+key, JJ
+increase, NN
+disease, NN
+health, NN
+heart, NN
+risks, NNS
+factors, NNS
+behaviors, NNS
+tracking, VBG
+
+Processing sentence 91: 
+    and stroke.
+
+., .
+and, CC
+stroke, NN
+
+Processing sentence 92: 
+    We call these “Life’s Simple 7” and we measure them to track progress 
+
+and, CC
+7”, CD
+these, DT
+“Life’s, JJ
+progress, NN
+Simple, NNP
+them, PRP
+We, PRP
+we, PRP
+to, TO
+track, VB
+measure, VBP
+call, VBP
+
+Processing sentence 93: 
+    toward our 2020 Impact  
+
+2020, CD
+toward, IN
+Impact, NN
+our, PRP$
+
+Processing sentence 94: 
+    Goal: to improve the cardiovascular health of all Americans by 20 percent and 
+
+:, :
+and, CC
+20, CD
+the, DT
+all, DT
+of, IN
+by, IN
+cardiovascular, JJ
+Goal, NN
+percent, NN
+health, NN
+Americans, NNPS
+to, TO
+improve, VB
+
+Processing sentence 95: 
+    reduce deaths from cardiovascular diseases and stroke by 20 percent, by the year 
+
+,, ,
+and, CC
+20, CD
+the, DT
+by, IN
+from, IN
+cardiovascular, JJ
+percent, NN
+stroke, NN
+year, NN
+deaths, NNS
+diseases, NNS
+reduce, VB
+
+Processing sentence 96: 
+    2020.
+
+., .
+2020, CD
+
+Processing sentence 97: 
+    Life’s Simple 7 are: not smoking, physical activity, healthy diet, body weight, 
+
+,, ,
+:, :
+7, CD
+healthy, JJ
+physical, JJ
+weight, NN
+diet, NN
+body, NN
+activity, NN
+Simple, NNP
+Life’s, NNP
+not, RB
+smoking, VBG
+are, VBP
+
+Processing sentence 98: 
+    and control of cholesterol, blood pressure and blood sugar.
+
+,, ,
+., .
+and, CC
+of, IN
+pressure, NN
+control, NN
+sugar, NN
+blood, NN
+cholesterol, NN
+
+Processing sentence 99: 
+    Here are key facts 
+
+key, JJ
+facts, NNS
+Here, RB
+are, VBP
+
+Processing sentence 100: 
+    related to these factors:   
+
+:, :
+these, DT
+factors, NNS
+to, TO
+related, VBN
+
+Processing sentence 101: 
+      
+
+
+Processing sentence 102: 
+    
+
+
+Processing sentence 103: 
+    Smoking  
+
+Smoking, VBG
+
+Processing sentence 104: 
+    • Worldwide, tobacco smoking (including secondhand smoke) was one of the 
+
+(, (
+), )
+,, ,
+one, CD
+the, DT
+of, IN
+•, JJ
+tobacco, NN
+smoking, NN
+smoke, NN
+Worldwide, NNP
+secondhand, VB
+was, VBD
+including, VBG
+
+Processing sentence 105: 
+    
+
+
+Processing sentence 106: 
+    top three leading risk factors for disease and contributed to an estimated 6.2 
+
+and, CC
+three, CD
+6.2, CD
+an, DT
+for, IN
+top, JJ
+risk, NN
+disease, NN
+factors, NNS
+to, TO
+contributed, VBD
+leading, VBG
+estimated, VBN
+
+Processing sentence 107: 
+    million deaths in 2010.
+
+., .
+million, CD
+2010, CD
+in, IN
+deaths, NNS
+
+Processing sentence 108: 
+    • 16 percent of students grades 9-12 report being current smokers.
+
+., .
+16, CD
+of, IN
+grades, JJ
+current, JJ
+9-12, JJ
+report, NN
+percent, NN
+smokers, NNS
+students, NNS
+•, RB
+being, VBG
+
+Processing sentence 109: 
+    Among 
+
+Among, IN
+
+Processing sentence 110: 
+    adults, 20 percent of men and 16 percent of women are smokers.
+
+,, ,
+., .
+and, CC
+20, CD
+16, CD
+of, IN
+percent, NN
+women, NNS
+men, NNS
+adults, NNS
+smokers, NNS
+are, VBP
+
+Processing sentence 111: 
+    • Among adults, those most likely to smoke were American Indian or Alaska 
+
+,, ,
+or, CC
+those, DT
+Among, IN
+American, JJ
+likely, JJ
+•, NN
+Indian, NNP
+Alaska, NNP
+adults, NNS
+most, RBS
+to, TO
+smoke, VB
+were, VBD
+
+Processing sentence 112: 
+    Native men (26 percent), white men (22 percent), African-American men (21 
+
+(, (
+), )
+,, ,
+21, CD
+26, CD
+22, CD
+white, JJ
+Native, JJ
+African-American, JJ
+percent, NN
+men, NNS
+
+Processing sentence 113: 
+    percent), white women (19 percent), American Indian or Alaska Native 
+
+(, (
+), )
+,, ,
+or, CC
+19, CD
+American, JJ
+white, JJ
+percent, NN
+Indian, NNP
+Alaska, NNP
+Native, NNP
+women, NNS
+
+Processing sentence 114: 
+    women (17 percent), Hispanic men (17 percent), African-American women 
+
+(, (
+), )
+,, ,
+17, CD
+Hispanic, JJ
+African-American, JJ
+percent, NN
+women, NNS
+men, NNS
+
+Processing sentence 115: 
+    (15 percent), Asian men (15 percent), Hispanic women (7 percent), Asian 
+
+(, (
+), )
+,, ,
+7, CD
+15, CD
+Asian, JJ
+Hispanic, JJ
+percent, NN
+women, NNS
+men, NNS
+
+Processing sentence 116: 
+    women (5 percent).
+
+(, (
+), )
+., .
+5, CD
+percent, NN
+women, NNS
+
+Processing sentence 117: 
+    • In 2012 there were approximately 6,300 new cigarette smokers every day.
+
+., .
+6,300, CD
+2012, CD
+every, DT
+there, EX
+In, IN
+new, JJ
+day, NN
+cigarette, NN
+•, NN
+smokers, NNS
+approximately, RB
+were, VBD
+
+Processing sentence 118: 
+    Physical Activity  
+
+Physical, JJ
+Activity, NN
+
+Processing sentence 119: 
+    
+
+
+Processing sentence 120: 
+    
+
+
+Processing sentence 121: 
+    
+
+
+Processing sentence 122: 
+    • About one in every three U.S. adults – 31 percent – reports participating in no 
+
+31, CD
+three, CD
+one, CD
+every, DT
+no, DT
+in, IN
+About, IN
+–, NN
+•, NN
+percent, NN
+U.S., NNP
+reports, NNS
+adults, NNS
+–, VBD
+participating, VBG
+
+Processing sentence 123: 
+    leisure time physical activity.
+
+., .
+physical, JJ
+activity, NN
+time, NN
+leisure, NN
+
+Processing sentence 124: 
+    • Among students in grades 9-12, only about 27 percent meet the American 
+
+,, ,
+27, CD
+9-12, CD
+the, DT
+Among, IN
+in, IN
+about, IN
+•, NN
+percent, NN
+American, NNP
+grades, NNS
+students, NNS
+only, RB
+meet, VBD
+
+Processing sentence 125: 
+    Heart Association recommendation of 60 minutes of exercise every day.
+
+., .
+60, CD
+every, DT
+of, IN
+day, NN
+recommendation, NN
+exercise, NN
+Association, NNP
+Heart, NNP
+minutes, NNS
+
+Processing sentence 126: 
+    More high school boys (36.6%) than girls (17.7%) self-reported having been 
+
+(, (
+), )
+17.7, CD
+36.6, CD
+than, IN
+high, JJ
+self-reported, JJ
+school, NN
+%, NN
+boys, NNS
+girls, NNS
+More, RBR
+having, VBG
+been, VBN
+
+Processing sentence 127: 
+    physically active at least 60 minutes per day on all seven days.
+
+., .
+60, CD
+seven, CD
+all, DT
+on, IN
+at, IN
+per, IN
+active, JJ
+least, JJS
+day, NN
+minutes, NNS
+days, NNS
+physically, RB
+
+Processing sentence 128: 
+    Healthy Diet  
+
+Diet, NNP
+Healthy, NNP
+
+Processing sentence 129: 
+    • Less than 1 percent of U.S. adults meet the American Heart Association’s 
+
+1, CD
+the, DT
+of, IN
+than, IN
+Less, JJR
+percent, NN
+U.S., NNP
+Association’s, NNP
+American, NNP
+Heart, NNP
+adults, NNS
+•, RB
+meet, VBD
+
+Processing sentence 130: 
+    
+
+
+Processing sentence 131: 
+    definition for “Ideal Healthy Diet.”
+
+for, IN
+definition, NN
+Diet.”, NNP
+Healthy, NNP
+“Ideal, NNP
+
+Processing sentence 132: 
+    Essentially no children meet the definition.
+
+., .
+no, DT
+the, DT
+definition, NN
+children, NNS
+Essentially, RB
+meet, VB
+
+Processing sentence 133: 
+    Of the 5 components of a healthy diet, reducing sodium and increasing whole 
+
+,, ,
+and, CC
+5, CD
+a, DT
+the, DT
+of, IN
+Of, IN
+healthy, JJ
+whole, JJ
+sodium, NN
+diet, NN
+components, NNS
+reducing, VBG
+increasing, VBG
+
+Processing sentence 134: 
+    grains are the biggest challenges.
+
+., .
+the, DT
+biggest, JJS
+grains, NNS
+challenges, NNS
+are, VBP
+
+Processing sentence 135: 
+    • Eating patterns have changed dramatically in recent decades.
+
+., .
+in, IN
+recent, JJ
+•, NN
+Eating, NNP
+patterns, NNS
+decades, NNS
+dramatically, RB
+changed, VBN
+have, VBP
+
+Processing sentence 136: 
+    Research from 
+
+from, IN
+Research, NN
+
+Processing sentence 137: 
+    1971 to 2004 showed that women consumed an average of 22 percent more 
+
+2004, CD
+1971, CD
+22, CD
+an, DT
+that, IN
+of, IN
+more, JJR
+average, NN
+percent, NN
+women, NNS
+to, TO
+showed, VBD
+consumed, VBD
+
+Processing sentence 138: 
+    calories in that span and men consumed and average of 10 percent more.
+
+., .
+and, CC
+10, CD
+that, DT
+in, IN
+of, IN
+more, JJR
+span, NN
+average, NN
+percent, NN
+calories, NNS
+men, NNS
+consumed, VBN
+
+Processing sentence 139: 
+    The average woman eats about 1,900 calories a day and the average man 
+
+and, CC
+1,900, CD
+a, DT
+The, DT
+the, DT
+about, IN
+average, JJ
+day, NN
+man, NN
+woman, NN
+calories, NNS
+eats, VBZ
+
+Processing sentence 140: 
+    has nearly 2,700, according to the government figures.
+
+,, ,
+., .
+2,700, CD
+the, DT
+government, NN
+figures, NNS
+nearly, RB
+to, TO
+according, VBG
+has, VBZ
+
+Processing sentence 141: 
+    Overweight/Obesity  
+
+Overweight/Obesity, NN
+
+Processing sentence 142: 
+    • Most Americans older than 20 are overweight or obese.
+
+., .
+or, CC
+20, CD
+than, IN
+obese, JJ
+older, JJR
+Most, JJS
+Americans, NNPS
+•, NNS
+overweight, VBN
+are, VBP
+
+Processing sentence 143: 
+    Over 159 million U.S.  
+
+., .
+million, CD
+159, CD
+Over, IN
+U.S, NNP
+
+Processing sentence 144: 
+    
+
+
+Processing sentence 145: 
+    adults – or about 69 percent – are overweight or obese.
+
+., .
+or, CC
+69, CD
+about, IN
+obese, JJ
+–, NN
+percent, NN
+adults, NNS
+–, VBD
+overweight, VBN
+are, VBP
+
+Processing sentence 146: 
+    • About 32 percent children are overweight or obese.
+
+., .
+or, CC
+32, CD
+About, IN
+obese, JJ
+overweight, JJ
+•, NN
+percent, NN
+children, NNS
+are, VBP
+
+Processing sentence 147: 
+    About 24 million are 
+
+million, CD
+24, CD
+About, IN
+are, VBP
+
+Processing sentence 148: 
+    
+
+
+Processing sentence 149: 
+    overweight and about 13 million – 17 percent – are obese.
+
+., .
+and, CC
+13, CD
+million, CD
+17, CD
+about, IN
+obese, JJ
+–, JJ
+–, NN
+overweight, NN
+percent, NN
+are, VBP
+
+Processing sentence 150: 
+    • In 2008, an estimated 1.46 billion adults worldwide were overweight or obese.
+
+,, ,
+., .
+or, CC
+2008, CD
+1.46, CD
+billion, CD
+an, DT
+In, IN
+obese, JJ
+•, NN
+adults, NNS
+were, VBD
+overweight, VBN
+estimated, VBN
+worldwide, WDT
+
+Processing sentence 151: 
+    The prevalence of obesity was estimated at 205 million men and 297 million 
+
+and, CC
+297, CD
+million, CD
+205, CD
+The, DT
+at, IN
+of, IN
+prevalence, NN
+obesity, NN
+men, NNS
+was, VBD
+estimated, VBN
+
+Processing sentence 152: 
+    women.
+
+., .
+women, NNS
+
+Processing sentence 153: 
+    Cholesterol  
+
+Cholesterol, NN
+
+Processing sentence 154: 
+    • About 43 percent of Americans have total cholesterol higher of 200 mg/dL or 
+
+or, CC
+200, CD
+43, CD
+of, IN
+About, IN
+higher, JJR
+•, NN
+percent, NN
+cholesterol, NN
+Americans, NNPS
+mg/dL, NNS
+total, VBN
+have, VBP
+
+Processing sentence 155: 
+    
+
+
+Processing sentence 156: 
+    higher.
+
+., .
+higher, JJR
+
+Processing sentence 157: 
+    The race and gender breakdown is:   
+
+:, :
+and, CC
+The, DT
+race, NN
+breakdown, NN
+gender, VB
+is, VBZ
+
+Processing sentence 158: 
+    o 46 percent of Hispanic men o 
+
+46, CD
+of, IN
+Hispanic, JJ
+percent, NN
+men, NNS
+o, RB
+o, VBP
+
+Processing sentence 159: 
+    46 percent of white women o 43 
+
+43, CD
+46, CD
+of, IN
+white, JJ
+percent, NN
+women, NNS
+o, VBD
+
+Processing sentence 160: 
+    percent of Hispanic women o 41 
+
+41, CD
+of, IN
+Hispanic, JJ
+percent, NN
+women, NNS
+o, VBD
+
+Processing sentence 161: 
+    percent of black women o 40 
+
+40, CD
+of, IN
+black, JJ
+percent, NN
+women, NNS
+o, VBD
+
+Processing sentence 162: 
+    percent of white men o 37 percent 
+
+37, CD
+of, IN
+white, JJ
+percent, NN
+men, NNS
+o, VBP
+
+Processing sentence 163: 
+    of black men  
+
+of, IN
+black, JJ
+men, NNS
+
+Processing sentence 164: 
+    
+
+
+Processing sentence 165: 
+    • About 13 percent of Americans have total cholesterol over 240 mg/dL.
+
+., .
+240, CD
+13, CD
+of, IN
+About, IN
+over, IN
+total, JJ
+•, NN
+percent, NN
+cholesterol, NN
+Americans, NNPS
+mg/dL, NNS
+have, VBP
+
+Processing sentence 166: 
+    • Nearly one of every three Americans has high levels of LDL cholesterol (the 
+
+(, (
+three, CD
+one, CD
+every, DT
+the, DT
+of, IN
+high, JJ
+cholesterol, NN
+LDL, NNP
+Americans, NNPS
+levels, NNS
+Nearly, RB
+•, RB
+has, VBZ
+
+Processing sentence 167: 
+    
+
+
+Processing sentence 168: 
+    “bad” kind).
+
+), )
+., .
+“bad”, JJ
+kind, NN
+
+Processing sentence 169: 
+    • About 20 percent of Americans have low levels of HDL cholesterol (the 
+
+(, (
+20, CD
+the, DT
+of, IN
+About, IN
+low, JJ
+•, NN
+percent, NN
+cholesterol, NN
+HDL, NNP
+Americans, NNPS
+levels, NNS
+have, VBP
+
+Processing sentence 170: 
+    
+
+
+Processing sentence 171: 
+    “good” kind).
+
+), )
+., .
+“good”, JJ
+kind, NN
+
+Processing sentence 172: 
+    High Blood Pressure  
+
+High, JJ
+Pressure, NN
+Blood, NNP
+
+Processing sentence 173: 
+    • About 80 million U.S. adults have high blood pressure.
+
+., .
+80, CD
+million, CD
+About, IN
+high, JJ
+pressure, NN
+•, NN
+blood, NN
+U.S., NNP
+adults, NNS
+have, VBP
+
+Processing sentence 174: 
+    That’s about 33 
+
+33, CD
+about, IN
+That’s, NN
+
+Processing sentence 175: 
+    
+
+
+Processing sentence 176: 
+    percent.
+
+., .
+percent, NN
+
+Processing sentence 177: 
+    About 77 percent of those are using antihypertensive medication, but 
+
+,, ,
+but, CC
+77, CD
+those, DT
+of, IN
+About, IN
+antihypertensive, JJ
+medication, NN
+percent, NN
+using, VBG
+are, VBP
+
+Processing sentence 178: 
+    only 54 of those have their condition controlled.
+
+., .
+54, CD
+those, DT
+of, IN
+condition, NN
+their, PRP$
+only, RB
+controlled, VBN
+have, VBP
+
+Processing sentence 179: 
+    • About 69 percent of people who have a first heart attack, 77 percent of 
+
+,, ,
+77, CD
+69, CD
+a, DT
+of, IN
+About, IN
+first, JJ
+•, NN
+percent, NN
+attack, NN
+heart, NN
+people, NNS
+have, VBP
+who, WP
+
+Processing sentence 180: 
+    people who have a first stroke and 74 percent who have congestive heart 
+
+and, CC
+74, CD
+a, DT
+congestive, JJ
+first, JJ
+percent, NN
+stroke, NN
+heart, NN
+people, NNS
+have, VBP
+who, WP
+
+Processing sentence 181: 
+    failure have blood pressure higher than 140/90 mm Hg.   
+
+., .
+140/90, CD
+than, IN
+mm, JJ
+higher, JJR
+pressure, NN
+blood, NN
+failure, NN
+Hg, NNP
+have, VBP
+
+Processing sentence 182: 
+    
+
+
+Processing sentence 183: 
+    • Nearly half of people with high blood pressure (46 percent) do not have it 
+
+(, (
+), )
+46, CD
+with, IN
+of, IN
+high, JJ
+pressure, NN
+blood, NN
+percent, NN
+half, NN
+people, NNS
+it, PRP
+Nearly, RB
+•, RB
+not, RB
+have, VB
+do, VBP
+
+Processing sentence 184: 
+    under control.
+
+., .
+under, IN
+control, NN
+
+Processing sentence 185: 
+    • Hypertension is projected to increase about 8 percent between 2013 and 
+
+and, CC
+2013, CD
+8, CD
+about, IN
+between, IN
+•, JJ
+percent, NN
+Hypertension, NNP
+to, TO
+increase, VB
+projected, VBN
+is, VBZ
+
+Processing sentence 186: 
+    2030.
+
+., .
+2030, CD
+
+Processing sentence 187: 
+    • Rates of high blood pressure among African-Americans is among the highest 
+
+the, DT
+among, IN
+of, IN
+high, JJ
+•, JJ
+highest, JJS
+pressure, NN
+blood, NN
+African-Americans, NNPS
+Rates, NNS
+is, VBZ
+
+Processing sentence 188: 
+    of any population in the world.
+
+., .
+the, DT
+any, DT
+in, IN
+of, IN
+population, NN
+world, NN
+
+Processing sentence 189: 
+    Here is the U.S. breakdown by race and 
+
+and, CC
+the, DT
+by, IN
+race, NN
+breakdown, NN
+U.S., NNP
+Here, RB
+is, VBZ
+
+Processing sentence 190: 
+    gender.
+
+., .
+gender, NN
+
+Processing sentence 191: 
+    o 46 percent of African-
+
+46, CD
+of, IN
+percent, NN
+African-, NNP
+o, RB
+
+Processing sentence 192: 
+    American women  o 45 percent of 
+
+45, CD
+of, IN
+American, JJ
+percent, NN
+women, NNS
+o, VBD
+
+Processing sentence 193: 
+    African-American men  o 33 
+
+33, CD
+African-American, JJ
+men, NNS
+o, VBP
+
+Processing sentence 194: 
+    percent of white men  o 30 
+
+30, CD
+of, IN
+white, JJ
+percent, NN
+men, NNS
+o, VBP
+
+Processing sentence 195: 
+    percent of white women  o 30 
+
+30, CD
+of, IN
+white, JJ
+percent, NN
+women, NNS
+o, VBD
+
+Processing sentence 196: 
+    percent of Hispanic men  o 30 
+
+30, CD
+of, IN
+Hispanic, JJ
+percent, NN
+men, NNS
+o, VBP
+
+Processing sentence 197: 
+    percent of Hispanic women   
+
+of, IN
+Hispanic, JJ
+percent, NN
+women, NNS
+
+Processing sentence 198: 
+    
+
+
+Processing sentence 199: 
+    • In 2000, it was estimated that 972 million adults worldwide had hypertension.
+
+,, ,
+., .
+2000, CD
+972, CD
+million, CD
+In, IN
+that, IN
+worldwide, JJ
+•, NN
+hypertension, NN
+adults, NNS
+it, PRP
+had, VBD
+was, VBD
+estimated, VBN
+
+Processing sentence 200: 
+    Blood Sugar/Diabetes  
+
+Blood, NN
+Sugar/Diabetes, NNS
+
+Processing sentence 201: 
+    • The prevalence of diabetes for adults worldwide was estimated to be 6.4 
+
+6.4, CD
+The, DT
+of, IN
+for, IN
+•, IN
+prevalence, NN
+worldwide, NN
+diabetes, NNS
+adults, NNS
+to, TO
+be, VB
+was, VBD
+estimated, VBN
+
+Processing sentence 202: 
+    
+
+
+Processing sentence 203: 
+    percent in 2010 and is projected to be 7.7 percent in 2030.
+
+., .
+and, CC
+2010, CD
+7.7, CD
+2030, CD
+in, IN
+percent, NN
+to, TO
+be, VB
+projected, VBN
+is, VBZ
+
+Processing sentence 204: 
+    The total number 
+
+The, DT
+total, JJ
+number, NN
+
+Processing sentence 205: 
+    of people with diabetes is projected to rise from 285 million in 2010 to 439 
+
+285, CD
+439, CD
+million, CD
+2010, CD
+with, IN
+from, IN
+of, IN
+in, IN
+diabetes, NNS
+people, NNS
+to, TO
+rise, VB
+projected, VBN
+is, VBZ
+
+Processing sentence 206: 
+    million in 2030.
+
+., .
+million, CD
+2030, CD
+in, IN
+
+Processing sentence 207: 
+    • About 21 million Americans have diagnosed diabetes.
+
+., .
+21, CD
+million, CD
+About, IN
+•, NN
+Americans, NNPS
+diabetes, NNS
+diagnosed, VBN
+have, VBP
+
+Processing sentence 208: 
+    That’s almost 9 
+
+9, CD
+That’s, NNP
+almost, RB
+
+Processing sentence 209: 
+    percent of the adult population, but diabetes rates are growing.
+
+,, ,
+., .
+but, CC
+the, DT
+of, IN
+population, NN
+percent, NN
+adult, NN
+rates, NNS
+growing, VBG
+are, VBP
+diabetes, VBZ
+
+Processing sentence 210: 
+    In fact, about 
+
+,, ,
+about, IN
+In, IN
+fact, NN
+
+Processing sentence 211: 
+    35 percent of Americans have pre-diabetes.
+
+., .
+35, CD
+of, IN
+percent, NN
+Americans, NNPS
+pre-diabetes, NNS
+have, VBP
+
+Processing sentence 212: 
+    • African-Americans, Hispanics/Latinos and other ethnic minorities bear a 
+
+,, ,
+and, CC
+a, DT
+ethnic, JJ
+•, JJ
+other, JJ
+Hispanics/Latinos, NNP
+minorities, NNS
+African-Americans, NNS
+bear, VBP
+
+Processing sentence 213: 
+    disproportionate burden of diabetes in the U.S.   
+
+., .
+the, DT
+in, IN
+of, IN
+disproportionate, JJ
+burden, NN
+U.S, NNP
+diabetes, NNS
+
+Processing sentence 214: 
+    
+
+
+Processing sentence 215: 
+    Mozaffarian D, Benjamin EJ, Go AS, Arnett DK, Blaha MJ, Cushman M, de Ferranti S, Després J-P,  
+
+,, ,
+de, FW
+Mozaffarian, JJ
+J-P, NNP
+D, NNP
+Arnett, NNP
+MJ, NNP
+S, NNP
+M, NNP
+DK, NNP
+EJ, NNP
+Benjamin, NNP
+AS, NNP
+Blaha, NNP
+Cushman, NNP
+Després, NNP
+Go, NNP
+Ferranti, NNP
+
+Processing sentence 216: 
+    Fullerton HJ, Howard VJ, Huffman MD, Judd SE, Kissela BM, Lackland DT, Lichtman JH, Lisabeth LD, Liu  
+
+,, ,
+VJ, NNP
+Lichtman, NNP
+Huffman, NNP
+Lisabeth, NNP
+HJ, NNP
+Kissela, NNP
+LD, NNP
+Lackland, NNP
+Judd, NNP
+Liu, NNP
+DT, NNP
+Fullerton, NNP
+SE, NNP
+Howard, NNP
+BM, NNP
+JH, NNP
+MD, NNP
+
+Processing sentence 217: 
+    S, Mackey RH, Matchar DB, McGuire DK, Mohler ER 3rd, Moy CS, Muntner P, Mussolino ME, Nasir K,  
+
+,, ,
+3rd, CD
+Nasir, NNP
+K, NNP
+RH, NNP
+Matchar, NNP
+Moy, NNP
+Muntner, NNP
+P, NNP
+Mussolino, NNP
+DB, NNP
+McGuire, NNP
+Mohler, NNP
+ME, NNP
+DK, NNP
+S, NNP
+CS, NNP
+ER, NNP
+Mackey, NNP
+
+Processing sentence 218: 
+    Neumar RW, Nichol G, Palaniappan L, Pandey DK, Reeves MJ, Rodriguez CJ, Sorlie PD, Stein J, Towfighi  
+
+,, ,
+Reeves, NNP
+L, NNP
+Towfighi, NNP
+Pandey, NNP
+Sorlie, NNP
+G, NNP
+MJ, NNP
+Rodriguez, NNP
+Stein, NNP
+RW, NNP
+DK, NNP
+Neumar, NNP
+J, NNP
+Palaniappan, NNP
+Nichol, NNP
+PD, NNP
+CJ, NNP
+
+Processing sentence 219: 
+    A, Turan TN, Virani SS, Willey JZ, Woo D, Yeh RW, Turner MB; on behalf of the American Heart  
+
+,, ,
+;, :
+A, DT
+the, DT
+on, IN
+of, IN
+American, JJ
+behalf, NN
+Turan, NNP
+TN, NNP
+Willey, NNP
+Virani, NNP
+JZ, NNP
+SS, NNP
+Turner, NNP
+RW, NNP
+D, NNP
+MB, NNP
+Heart, NNP
+Woo, NNP
+Yeh, NNP
+
+Processing sentence 220: 
+    Association Statistics Committee and Stroke Statistics Subcommittee.
+
+., .
+and, CC
+Subcommittee, NNP
+Association, NNP
+Stroke, NNP
+Committee, NNP
+Statistics, NNPS
+
+Processing sentence 221: 
+    Heart disease and stroke statistics— 
+
+and, CC
+disease, NN
+Heart, NNP
+statistics—, NNS
+stroke, VBD
+
+Processing sentence 222: 
+    2015 update: a report from the American Heart Association [published online ahead of print December 17, 
+
+,, ,
+:, :
+2015, CD
+17, CD
+the, DT
+a, DT
+of, IN
+from, IN
+online, JJ
+report, NN
+update, NN
+print, NN
+[, NNP
+December, NNP
+Association, NNP
+American, NNP
+Heart, NNP
+ahead, RB
+published, VBD
+
+Processing sentence 223: 
+    2014].
+
+., .
+2014, CD
+], NN
+
+Processing sentence 224: 
+    Circulation.
+
+., .
+Circulation, NN
+
+Processing sentence 225: 
+    doi: 10.1161/CIR.0000000000000152.
+
+., .
+:, :
+10.1161/CIR.0000000000000152, CD
+doi, NN
+
+BUILD SUCCESSFUL
+
+Total time: 3.32 secs
+
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.9/userguide/gradle_daemon.html
