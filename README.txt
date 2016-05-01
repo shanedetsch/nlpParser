@@ -14,5 +14,5 @@
 (1) cd scripts
 (2) pip install nltk
 (3) mkdir nltk_data
-(4) python -m nltk.downloader 
-	(3.1) Edit the pop up's "Download Directory" to be ${project.home}/rsdets1/scripts/nltk_data
+(4) python -m nltk.downloader  # An application will pop up asking you what nlp library you want to download
+	(4.1) Edit the pop up's "Download Directory" to be ${project.home}/rsdets1/scripts/nltk_data

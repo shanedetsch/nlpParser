@@ -69,7 +69,7 @@ public class PdfParse {
             String sentences[] = sdetector.sentDetect(handler.toString());
             int count = 0;
             for (String senctence: sentences) {
-                senctence = senctence.replaceAll("(\\r|\\n)", "").replaceAll("[^\\x00-\\x7F]", "");
+                senctence = senctence.replaceAll("(\\r|\\n|[^\\x00-\\x7F])", "");
                 bw.write(senctence);
                 bw.newLine();
             }
