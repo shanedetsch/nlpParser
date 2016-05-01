@@ -7,7 +7,7 @@
 
 (1) gradle wrapper (Run only once)
 (2) ./gradlew clean fatJar
-(3) java -cp .:./build/libs/rsdets1-tika-all-1.0.jar rsdets1.PdfParse "https://www.heart.org/idc/groups/ahamah-public/@wcm/@sop/@smd/documents/downloadable/ucm_470704.pdf" 
+(3) ./gradlew runPdfParserJar -Ppdffile=https://www.heart.org/idc/groups/ahamah-public/@wcm/@sop/@smd/documents/downloadable/ucm_470704.pdf
 (4) ./gradlew runPyNlp
 
 ## Configure Python to use the nltk natural language package

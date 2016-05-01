@@ -1,6 +1,6 @@
 apply plugin: 'java'
 apply plugin: 'idea'
-
+apply plugin: 'application'
 
 version = '1.0'
 
@@ -40,4 +40,18 @@ task runPyNlp(type:Exec) {
 task wrapper(type: Wrapper) {
     gradleVersion = '2.9'
 }
+
+configurations {
+    scheduleRuntime
+ }
+dependencies {
+    scheduleRuntime files("build/libs/rsdets1-tika-all-${version}.jar")
+}
+task runPdfParserJar(type: JavaExec) {
+    main = "rsdets1.PdfParse"
+    workingDir = "./"
+    classpath = configurations.scheduleRuntime
+    //args('https://www.heart.org/idc/groups/ahamah-public/@wcm/@sop/@smd/documents/downloadable/ucm_470704.pdf')
+    args("${pdffile}")
+  }
 
