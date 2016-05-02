@@ -1,4 +1,14 @@
 
+## Install Groovy, Gradle, Python 2.6 or 2.7 and Pip
+
+## Do Once
+# Configure Python to use the nltk natural language package
+(1) cd scripts
+(2) pip install nltk
+(3) mkdir nltk_data
+(4) python -m nltk.downloader  # An application will pop up asking you what nlp library you want to download
+	(4.1) Edit the pop up's "Download Directory" to be ${project.home}/rsdets1/scripts/nltk_data
+
 ## Run the following commands
 # (1) Creates ./gradlew
 # (2) Creates a jar
@@ -10,9 +20,3 @@
 (3) ./gradlew runPdfParserJar -Ppdffile=https://www.heart.org/idc/groups/ahamah-public/@wcm/@sop/@smd/documents/downloadable/ucm_470704.pdf
 (4) ./gradlew runPyNlp
 
-## Configure Python to use the nltk natural language package
-(1) cd scripts
-(2) pip install nltk
-(3) mkdir nltk_data
-(4) python -m nltk.downloader  # An application will pop up asking you what nlp library you want to download
-	(4.1) Edit the pop up's "Download Directory" to be ${project.home}/rsdets1/scripts/nltk_data
