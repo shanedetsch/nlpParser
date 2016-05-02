@@ -1,4 +1,9 @@
 
+## Author: Richard Shane Detsch
+# Used Apache Tika extract pdf content
+# Used Apache OpenNLP to parse pdf conent into sentences that are than read to a file
+# Used Python nltp to parse each sentense into its sentence parts
+
 ## Install Groovy, Gradle, Python 2.6 or 2.7 and Pip
 
 ## Do Once
