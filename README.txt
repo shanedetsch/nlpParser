@@ -25,3 +25,18 @@
 (3) ./gradlew runPdfParserJar -Ppdffile=https://www.heart.org/idc/groups/ahamah-public/@wcm/@sop/@smd/documents/downloadable/ucm_470704.pdf
 (4) ./gradlew runPyNlp
 
+Example of one of the sentences parsed from the above pdf::
+
+Processing sentence 33: 
+     Stroke is the leading preventable cause of disability.
+
+., .
+the, DT
+of, IN
+preventable, JJ
+disability, NN
+cause, NN
+Stroke, NNP
+leading, VBG
+is, VBZ
+
