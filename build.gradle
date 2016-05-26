@@ -35,8 +35,12 @@ task fatJar(type: Jar) {
 
 task runPyNlp(type:Exec) {
    workingDir './scripts'
-
    commandLine 'python', 'processFile.py'
+} 
+
+task runGoogleNlp(type:Exec) {
+   workingDir '../models/syntaxnet'
+   commandLine 'sh', '../../rsdets1/scripts/processFileGoogle.sh'
 } 
 
 task wrapper(type: Wrapper) {
