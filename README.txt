@@ -26,8 +26,8 @@
 
 
 ## You can also use Google's nlp parser 
-# In the same directory you clones this repo, clone this repo https://github.com/tensorflow/models.git
-# by following these instructions https://github.com/tensorflow/models/tree/master/syntaxnet
+# In the same directory you cloned this repo also clone the tensorflow repo https://github.com/tensorflow/models.git
+# by following instructions at this url https://github.com/tensorflow/models/tree/master/syntaxnet
 (1) gradle wrapper (Run only once)
 (2) ./gradlew clean fatJar
 (3) ./gradlew runPdfParserJar -Ppdffile=https://www.heart.org/idc/groups/ahamah-public/@wcm/@sop/@smd/documents/downloadable/ucm_470704.pdf
@@ -84,20 +84,5 @@ people, NNS
 diseases, NNS
 Nearly, RB
 died, VBD
-=======
-Example sentences parsed from the above pdf::
 
-Processing sentence 33: 
-     Stroke is the leading preventable cause of disability.
-
-., .
-the, DT
-of, IN
-preventable, JJ
-disability, NN
-cause, NN
-Stroke, NNP
-leading, VBG
-is, VBZ
->>>>>>> 901d4b86f253331ae9c191ff7ea989958e895773
 
