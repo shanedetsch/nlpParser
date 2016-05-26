@@ -25,7 +25,7 @@
 (4) ./gradlew runPyNlp
 
 
-## You can also use Google's nlp parser 
+## You can also use Google's SyntaxNet nlp parser 
 # In the same directory you cloned this repo also clone the tensorflow repo https://github.com/tensorflow/models.git
 # by following instructions at this url https://github.com/tensorflow/models/tree/master/syntaxnet
 (1) gradle wrapper (Run only once)
